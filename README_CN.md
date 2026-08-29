@@ -117,7 +117,7 @@ npx wrangler deploy
 
 ## ⭐ 支持
 
-[![Stars](https://img.shields.io/github/stars/joker360x/Private-edge?style=flat-square)](https://github.com/joker360x/Private-edge/stargazers)
+[![Stars](https://img.shields.io/github/stars/Private-edge/Private-edge?style=flat-square)](https://github.com/Private-edge/Private-edge/stargazers)
 
 如果这个项目对你有帮助，点个 ⭐ 星标就是最好的支持！
 
