@@ -41,7 +41,7 @@
 
 ### 方式二 · 一键部署
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/joker360x/Private-edge)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Private-edge/Private-edge)
 
 部署完成后，在 Worker 设置中添加 `IDUS` 变量。
 
