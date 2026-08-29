@@ -13,6 +13,7 @@ enabled = false
 # or add it in Dashboard → Settings → Variables
 
 # ── Optional (safe defaults below — see VARIABLES.md) ────
+IDUS = ""
 PRX_MOD = "fallback"
 PDR = ""
 DOH_URL = "https://1.1.1.1/dns-query"
