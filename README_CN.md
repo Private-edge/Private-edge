@@ -121,6 +121,6 @@ npx wrangler deploy
 
 如果这个项目对你有帮助，点个 ⭐ 星标就是最好的支持！
 
-## 📄 许可证
+## 🎖️ 许可证
 
 [MIT](LICENSE) — © 2026 Private Edge
