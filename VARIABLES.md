@@ -80,8 +80,7 @@ ECH is off by default for compatibility; the Worker cannot force it on Cloudflar
 
 ---
 
-## ![فارسی](https://raw.githubusercontent.com/Private-edge/Private-edge/bd4d1c155e760a7935a5c1808e4c1e3b5f3a57b5/flag-of-iran-emoji-toss-face.svg) فارسی### الزامی
-
+## ![فارسی](https://raw.githubusercontent.com/Private-edge/Private-edge/a3cdcab946edde3649be5306a1e81505748af303/flag-of-iran-emoji-toss-face16.svg) فارسی
 | نام | نوع | پیش‌فرض | توضیح |
 | :-- | :-- | :-- | :-- |
 | `IDUS` | Secret | — | UUID استاندارد VLESS و تنها مقدار الزامی. اگر تنها همین تنظیم شود، مسیر WebSocket و endpoint کانفیگ هر دو `/<IDUS>` خواهند بود. |
