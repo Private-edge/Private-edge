@@ -40,7 +40,7 @@
 
 ### روش ۲ · دیپلوی یک‌کلیکی
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/joker360x/Private-edge)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Private-edge/Private-edge)
 
 بعد از دیپلوی، متغیر `IDUS` را در تنظیمات Worker وارد کنید.
 
@@ -116,7 +116,7 @@ npx wrangler deploy
 
 ## ⭐ حمایت
 
-[![Stars](https://img.shields.io/github/stars/joker360x/Private-edge?style=flat-square)](https://github.com/joker360x/Private-edge/stargazers)
+[![Stars](https://img.shields.io/github/stars/Private-edge/Private-edge?style=flat-square)](https://github.com/Private-edge/Private-edge/stargazers)
 
 اگر این پروژه به شما کمک کرد، یک ⭐ ستاره بهترین دلگرمی است!
 
