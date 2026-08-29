@@ -41,7 +41,7 @@ A personal **VLESS + WebSocket** edge proxy on Cloudflare Workers — TCP relay,
 
 ### Method 2 · One-click deploy
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/joker360x/Private-edge)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Private-edge/Private-edge)
 
 After deployment, set the `IDUS` variable in your Worker settings.
 
