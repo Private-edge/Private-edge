@@ -1,7 +1,4 @@
 # 🚀 Private Edge
-
-<img src="https://raw.githubusercontent.com/Private-edge/Private-edge/02b41b32e43f5d83a3e0291368920230a052939a/flag-of-iran-emoji-toss-face.svg" width="48" alt="فارسی"> 
-
 ![Version](https://img.shields.io/badge/version-1.1.15-blue?style=flat-square)
 ![Protocol](https://img.shields.io/badge/protocol-VLESS%2BWS-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Cloudflare%20Workers-orange?style=flat-square)
