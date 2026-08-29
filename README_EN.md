@@ -121,6 +121,6 @@ Base link: `https://your-worker.workers.dev/<UUID>` (add `?token=…` if `SUB_TK
 
 If this project helped you, a ⭐ star is the best support!
 
-## 📄 License
+## 📋 License
 
 [MIT](LICENSE) — © 2026 Private Edge
