@@ -1,0 +1,33 @@
+name = "private-edge"
+main = "_worker.js"
+compatibility_date = "2026-08-14"
+workers_dev = true
+
+[observability]
+enabled = false
+
+[vars]
+# ── Required ──────────────────────────────────────────────
+# IDUS: set your VLESS UUID as a secret (never commit it):
+#   npx wrangler secret put IDUS
+# or add it in Dashboard → Settings → Variables
+
+# ── Optional (safe defaults below — see VARIABLES.md) ────
+PRX_MOD = "fallback"
+PDR = ""
+DOH_URL = "https://1.1.1.1/dns-query"
+DOH_FBK_URL = "https://8.8.8.8/dns-query"
+ERL_DAT = "2560"
+BLK_PRV = "true"
+ECH_MOD = "off"
+CFG_NAM = "private-edge"
+CON_TMO_MS = "8000"
+DNS_TMO_MS = "8000"
+MAX_TUN = "6"
+MAX_RPL_BYT = "262144"
+DBG = "false"
+FPR = "chrome"
+PUB_PRT = "443"
+LOC_SCK_PRT = "10808"
+LOC_MIX_PRT = "2080"
+LND_MOD = "all"
