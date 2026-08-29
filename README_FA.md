@@ -5,7 +5,7 @@
 ![Tests](https://img.shields.io/badge/tests-103%20passing-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-[English](README.md) | **فارسی** | [中文](README_CN.md)
+[English](README_EN.md) | **فارسی** | [中文](README_CN.md)
 
 پروکسی شخصی **VLESS + WebSocket** روی Cloudflare Workers — رلهٔ TCP، دی‌ان‌اس با زنجیرهٔ DoH و fallback خودکار (بهینه برای ایران)، پشتیبانی از ProxyIP، Early Data و تولید خودکار کانفیگ برای **Xray / sing-box / v2rayNG**. یک فایل، بدون هیچ وابستگی، روی پلن رایگان.
 
