@@ -55,7 +55,7 @@ After deployment, set the `IDUS` variable in your Worker settings.
 ### Method 4 · Wrangler CLI
 
 ```bash
-git clone https://github.com/joker360x/Private-edge.git
+git clone https://github.com/Private-edge/Private-edge.git
 cd Private-edge
 npx wrangler secret put IDUS    # paste your UUID
 npx wrangler deploy
