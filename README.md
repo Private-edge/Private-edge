@@ -6,7 +6,7 @@
 ![Tests](https://img.shields.io/badge/tests-103%20passing-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-**English** | [فارسی](README_FA.md) | [中文](README_CN.md)
+[English](README_EN.md) | [فارسی](README_FA.md) | [中文](README_CN.md)
 
 A personal **VLESS + WebSocket** edge proxy on Cloudflare Workers — TCP relay, DNS-over-HTTPS with automatic fallback chain (tuned for Iran), ProxyIP support, early data, and auto-generated client configs for **Xray / sing-box / v2rayNG**. One file, zero dependencies, works on the free plan.
 
