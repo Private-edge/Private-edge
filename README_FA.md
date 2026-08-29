@@ -54,7 +54,7 @@
 ### روش ۴ · خط فرمان (Wrangler)
 
 ```bash
-git clone https://github.com/joker360x/Private-edge.git
+git clone https://github.com/Private-edge/Private-edge.git
 cd Private-edge
 npx wrangler secret put IDUS    # یو‌یو‌آی‌دی خود را وارد کنید
 npx wrangler deploy
