@@ -80,8 +80,7 @@ ECH is off by default for compatibility; the Worker cannot force it on Cloudflar
 
 ---
 
-## ![فارسی](./w40/flag-of-iran-emoji-toss-face.svg) فارسی
-### الزامی
+## ![فارسی](https://raw.githubusercontent.com/Private-edge/Private-edge/bd4d1c155e760a7935a5c1808e4c1e3b5f3a57b5/flag-of-iran-emoji-toss-face.svg) فارسی### الزامی
 
 | نام | نوع | پیش‌فرض | توضیح |
 | :-- | :-- | :-- | :-- |
