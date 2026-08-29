@@ -18,7 +18,7 @@
 |---|---|
 | **fetch handler** | کل بدنه داخل `try { return await route(...) } catch { → 404 }` است؛ حتی خطای پیشبینینشده هم 1101 نمیشود |
 | **route (WS)** | `acceptTunnelSocket` داخل try/catch → هر خطای sync به 404 تبدیل میشود |
-| **route (config)** | `return await handleConfigEndpoint(...)` **با await** داخل try/catch → rejection ها (مثل DoH خراب) مهار میشوند. (این همان فیکس v1.1.4 است که اینجا بهدرستی هست) |
+| **route (config)** | `return await handleConfigEndpoint(...)` **با await** داخل try/catch → rejection ها (مثل DoH خراب) مهار میشوند. (این همان فیکس V1.1.15 است که اینجا بهدرستی هست) |
 | **رویدادهای WebSocket** | message/close/error هر سه داخل try/catch |
 | **زنجیرهٔ پیامها (enqueue)** | `chain.then(push).catch(→ abort 1011)` — rejection سشن به 1011 تبدیل میشود نه 1101 |
 | **pumpRemote** | `void pumpRemote(...).catch(...)` — هندلشده |
@@ -46,4 +46,4 @@
 
 ## جمعبندی
 
-کد v1.1.8 از نظر 1101 **تمیز است**: تمام مسیرهای sync و async محافظت شدهاند و هر خطای runtime به یک پاسخ نرمال (404/1011) تبدیل میشود. خطاهای مشاهدهشده در لاگ قبلی شما «internal error» زیرساخت Cloudflare بودند (در colo GYD)، نه خطای کد — همان تحلیل قبلی پابرجاست.
+کد V1.1.15 از نظر 1101 **تمیز است**: تمام مسیرهای sync و async محافظت شدهاند و هر خطای runtime به یک پاسخ نرمال (404/1011) تبدیل میشود. خطاهای مشاهدهشده در لاگ قبلی شما «internal error» زیرساخت Cloudflare بودند (در colo GYD)، نه خطای کد — همان تحلیل قبلی پابرجاست.
