@@ -60,7 +60,7 @@ It is designed for one person (or a small group): no database, no accounts, no a
 
 ---
 
-## 🇮🇷 فارسی
+## <img src="https://raw.githubusercontent.com/Private-edge/Private-edge/02b41b32e43f5d83a3e0291368920230a052939a/flag-of-iran-emoji-toss-face.svg" width="48" alt="فارسی"> فارسی
 
 ### Private Edge چیست؟
 
