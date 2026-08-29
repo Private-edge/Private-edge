@@ -28,6 +28,6 @@ A personal **VLESS + WebSocket** edge proxy on Cloudflare Workers — TCP relay,
 
 If this project helped you, a ⭐ star is the best support!
 
-## 📋 License
+## 🎗️ License
 
 [MIT](LICENSE) — © 2026 Private Edge
