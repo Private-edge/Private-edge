@@ -80,7 +80,8 @@ ECH is off by default for compatibility; the Worker cannot force it on Cloudflar
 
 ---
 
-## 🇮🇷 فارسی
+## <img src="![Uploading image.png…]()
+" alt="Italian Trulli"> فارسی
 
 ### الزامی
 
