@@ -80,8 +80,7 @@ ECH is off by default for compatibility; the Worker cannot force it on Cloudflar
 
 ---
 
-## ![فارسی](https://flagofiran.com/files//w40/flag-of-iran-emoji-android.png) فارسی
-
+## ![فارسی](./w40/flag-of-iran-emoji-toss-face.svg) فارسی
 ### الزامی
 
 | نام | نوع | پیش‌فرض | توضیح |
