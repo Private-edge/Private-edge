@@ -6,7 +6,7 @@
 ![Tests](https://img.shields.io/badge/tests-103%20passing-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
-[English](README.md) | [فارسی](README_FA.md) | **中文**
+[English](README_EN.md) | [فارسی](README_FA.md) | **中文**
 
 运行在 Cloudflare Workers 上的个人 **VLESS + WebSocket** 代理 — 支持 TCP 中继、带自动回退链的 DNS-over-HTTPS（针对伊朗网络优化）、ProxyIP、Early Data，并自动生成 **Xray / sing-box / v2rayNG** 的客户端配置。单文件、零依赖、免费套餐可用。
 
