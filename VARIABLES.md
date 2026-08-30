@@ -79,7 +79,7 @@ ECH is off by default for compatibility; the Worker cannot force it on Cloudflar
 | `APP_ACC_2` | `#30b9a4` | Accent color. |
 
 ---
-## <img src="https://raw.githubusercontent.com/Private-edge/Private-edge/02b41b32e43f5d83a3e0291368920230a052939a/flag-of-iran-emoji-toss-face.svg" width="24" alt="Persian"/> Farsi
+## <img src="[https://raw.githubusercontent.com/Private-edge/Private-edge/02b41b32e43f5d83a3e0291368920230a052939a/flag-of-iran-emoji-toss-face.svg](https://raw.githubusercontent.com/Private-edge/Private-edge/c6fe1db29c50437a274d7cc4d2366bf3b6c89661/Catalogs/flag-of-iran-emoji-toss-face.svg)" width="24" alt="Persian"/> Farsi
 
 
 | نام | نوع | پیش‌فرض | توضیح |
