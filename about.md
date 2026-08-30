@@ -59,7 +59,7 @@ It is designed for one person (or a small group): no database, no accounts, no a
 - ⚠️ **Legal & fair use:** this is a personal tool. Respect Cloudflare's Terms of Service and the laws of your jurisdiction.
 
 ---
-## <img src="https://raw.githubusercontent.com/Private-edge/Private-edge/02b41b32e43f5d83a3e0291368920230a052939a/flag-of-iran-emoji-toss-face.svg" width="40" alt="فارسی">   فارسی
+## <img src="[https://raw.githubusercontent.com/Private-edge/Private-edge/02b41b32e43f5d83a3e0291368920230a052939a/flag-of-iran-emoji-toss-face.svg](https://raw.githubusercontent.com/Private-edge/Private-edge/c6fe1db29c50437a274d7cc4d2366bf3b6c89661/Catalogs/flag-of-iran-emoji-toss-face.svg)" width="40" alt="فارسی">   فارسی
 
 ### Private Edge چیست؟
 
