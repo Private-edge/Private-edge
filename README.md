@@ -1,33 +1,32 @@
-# 🚀 Private Edge
+---
 
-![Version](https://img.shields.io/badge/version-1.1.15-blue?style=flat-square)
-![Protocol](https://img.shields.io/badge/protocol-VLESS%2BWS-green?style=flat-square)
-![Platform](https://img.shields.io/badge/platform-Cloudflare%20Workers-orange?style=flat-square)
-![Tests](https://img.shields.io/badge/tests-103%20passing-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
+<div align="center">
 
-[English](README_EN.md) | [فارسی](README_FA.md) | [中文](README_CN.md)
+### ⚡ P R I V A T E&nbsp;&nbsp;E D G E
 
-A personal **VLESS + WebSocket** edge proxy on Cloudflare Workers — TCP relay, DNS-over-HTTPS with automatic fallback chain (tuned for Iran), ProxyIP support, early data, and auto-generated client configs for **Xray / sing-box / v2rayNG**. One file, zero dependencies, works on the free plan.
+*Edge networking, engineered to standards — one file, zero dependencies, production-tested.*
 
-## ✨ Features
+[![Version](https://img.shields.io/badge/version-1.1.15-0969DA?style=flat-square)](https://github.com/Private-edge/Private-edge/releases)
+[![Platform](https://img.shields.io/badge/platform-Cloudflare%20Workers-F6821F?style=flat-square)](https://workers.cloudflare.com)
+[![Tests](https://img.shields.io/badge/tests-103%20passing-1A7F37?style=flat-square)](https://github.com/Private-edge/Private-edge)
+[![License](https://img.shields.io/badge/license-MIT-57606A?style=flat-square)](https://github.com/Private-edge/Private-edge/blob/main/LICENSE)
 
-- 🛡️ **VLESS over WebSocket** — TLS and noTLS
-- 🔀 **TCP relay** with multi-target failover and replay buffer
-- 📡 **DNS UDP/53 → DoH** with a fallback chain of raw-IP resolvers (`1.1.1.1 ← 8.8.8.8 ← 9.9.9.9 ← …`) that survive DNS-based filtering
-- 🌐 **ProxyIP** — three modes: `fallback` / `always` / `off`
-- ⚡ **Early data** (`?ed=2560`) with RFC 6455-compliant subprotocol echo — stable connections on v2rayNG / Xray
-- 📦 **One link, every client** — `vless://` URI, Xray JSON (legacy & modern), sing-box JSON, base64 subscription, noTLS, ECH
-- 🔐 Constant-time UUID check, private-network blocking, per-Worker tunnel cap, port 25 blocked
-- 🎨 Built-in **cover page** (camouflage) — fully customizable via variables
-- ✅ 103 automated tests · production-tested
+<br>
 
-## ⭐ Support
+| :---: | :---: |
+| :--- | :--- |
+| **Protocol** | VLESS over WebSocket — TLS & noTLS |
+| **Core** | TCP relay · multi-target failover · ProxyIP |
+| **DNS** | DoH + raw-IP fallback chain, filter-resistant |
+| **Clients** | Xray · sing-box · v2rayNG — one link for all |
+| **Deploy** | Cloudflare Workers · free plan · single file |
 
-[![Stars](https://img.shields.io/github/stars/joker360x/Private-edge?style=flat-square)](https://github.com/joker360x/Private-edge/stargazers)
+<br>
 
-If this project helped you, a ⭐ star is the best support!
+**[📦 Repository](https://github.com/Private-edge/Private-edge)** &nbsp;·&nbsp; **[📖 Documentation](https://github.com/Private-edge/Private-edge#readme)** &nbsp;·&nbsp; **[⭐ Star](https://github.com/Private-edge/Private-edge/stargazers)**
 
-## 📋 License
+<sub>Private Edge © 2026 — built for the open web.</sub>
 
-[MIT](LICENSE) — © 2026 Private Edge
+</div>
+
+---
