@@ -13,7 +13,7 @@
 
 <br>
 
-
+| :---: | :---: |
 | :--- | :--- |
 | **Protocol** | VLESS over WebSocket — TLS & noTLS |
 | **Core** | TCP relay · multi-target failover · ProxyIP |
